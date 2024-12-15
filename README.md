@@ -17,7 +17,7 @@ This is an image inpainting tool built with React and `react-canvas-draw`. It al
 
 1. Clone the repository to your local machine:
    in CMD run following command:
-   git clone <repository-url>
+   git clone <https://github.com/jharianeetu/React_Asssignment>
    
    navigate to project folder:
    cd image-inpainting-widget
